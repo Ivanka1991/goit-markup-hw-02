@@ -169,7 +169,13 @@ body {
   text-align: left;
   color: var(--third-color-text);
 }
-.footer-list {
+.footer-list,
+.portfolio-list,
+.examples,
+.examples-link,
+.advantages-list,
+.directions-list,
+.command-list {
   text-decoration: none;
   list-style-type: none;
 }
